@@ -191,6 +191,11 @@ footer i {
   padding-top: 16px;
 }
 
+#div-1 p, #div-2 p, #div-3 p {
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
 
 /* ==========================================================================
    Helper classes
